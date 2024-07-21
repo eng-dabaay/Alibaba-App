@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214366574091",
+    "project_id": "alibabaapp-2d18c",
+    "storage_bucket": "alibabaapp-2d18c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214366574091:android:f78c5cdfb05521f34b990e",
+        "android_client_info": {
+          "package_name": "com.example.alibaba_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLQOe1pvS2buaI-4VtbFVaobQlQ4sASJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
